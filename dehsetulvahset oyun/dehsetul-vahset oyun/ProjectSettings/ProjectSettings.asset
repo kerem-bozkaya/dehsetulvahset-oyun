@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 9e3b74c2c12b6fa458ab83ae203f0a7f
+  productGUID: 701e697c208bdd14b816ee4977a077cb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: dehsetulvahset oyun
+  productName: dehsetul-vahset oyun
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: dehsetulvahset oyun
+  metroPackageName: dehsetul-vahset oyun
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: dehsetulvahset oyun
+  metroApplicationDescription: dehsetul-vahset oyun
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -919,12 +919,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 010f4541-7527-4d5d-83b2-a17bd8a8f47b
+  cloudProjectId: c1a61f8e-f89d-4466-981b-334ebb0a0f78
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: dehsetulvahset oyun
+  projectName: dehsetul-vahset oyun
   organizationId: kbozkaya
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
