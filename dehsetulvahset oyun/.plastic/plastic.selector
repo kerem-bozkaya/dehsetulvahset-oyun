@@ -1,0 +1,4 @@
+repository "dehsetulvahset oyun/dehsetulvahset oyun@18967568155080@cloud"
+  path "/"
+    br "/main"
+    co "/main"
