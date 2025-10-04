@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class pressed : MonoBehaviour,IInteractable
 {
-    public Transform transform;
+    public Transform ts;
+    public float translateAmount;
     public void Interact()
     {
-        transform.Translate(0, -0.036f, 0);
+        ts.Translate(0, translateAmount, 0);
     }
 }
