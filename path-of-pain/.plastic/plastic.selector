@@ -1,4 +1,0 @@
-repository "path-of-pain/path-of-pain@18967568155080@cloud"
-  path "/"
-    br "/main"
-    co "/main"
